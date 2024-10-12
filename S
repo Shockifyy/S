@@ -14,6 +14,6 @@ universeid = game.GameId
 
 setclipboard("discord.gg/tXsWUYfFSh")
 
-if universeid == 383310974 then
+if universeid == 142823291 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/adopt.lua", true))()
 end
