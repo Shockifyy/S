@@ -19,5 +19,5 @@ if universeid == 142823291 then
 end
 
 if universeid == 8737899170 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Shockifyy/S/main/MM2.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Shockifyy/S/main/PS99.lua", true))()
 end
