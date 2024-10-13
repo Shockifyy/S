@@ -15,7 +15,7 @@ universeid = game.GameId
 setclipboard("discord.gg/tXsWUYfFSh")
 
 if universeid == 142823291 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Shockifyy/S/main/MM2.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Shockifyy/S/main/mm2.lua", true))()
 end
 
 if universeid == 8737899170 then
